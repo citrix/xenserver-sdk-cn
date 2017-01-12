@@ -1,0 +1,13 @@
+---
+site_name: Citrix XenServer SDK
+site_description: Citrix XenServer SDK 参考指南
+theme_dir: theme_onepage
+markdown_extensions:
+  - admonition
+  - codehilite
+  - 
+    toc:
+      anchorlink: true
+pages:
+  - 
+    Index: index.md
